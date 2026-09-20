@@ -17,11 +17,11 @@
 
 <p align="center">
   <a href="mailto:contactme@saddamshah.me">
-    <img src="https://img.shields.io/badge/Email-contactme@saddamshah.me-3498db?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="assets/btn_email.svg" alt="Email: contactme@saddamshah.me" />
   </a>
   &nbsp;
   <a href="https://wa.me/923396106991">
-    <img src="https://img.shields.io/badge/WhatsApp-+92%20339%206106991-27ae60?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="assets/btn_whatsapp.svg" alt="WhatsApp: +92 339 6106991" />
   </a>
 </p>
 
