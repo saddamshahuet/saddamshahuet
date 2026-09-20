@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Button Size and Style Comparison</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      align-items: center;
+      background: #0d1117;
+      color: #e6edf3;
+    }
+    .preview-card {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 14px;
+      padding: 24px 30px;
+      text-align: center;
+      width: 720px;
+    }
+    .preview-card h3 {
+      margin-top: 0;
+      color: #58a6ff;
+      font-size: 17px;
+    }
+    .btn-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 16px;
+      margin-top: 15px;
+      flex-wrap: wrap;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Banner Reference -->
+  <div style="text-align: center; margin-bottom: 10px;">
+    <img src="assets/available_custom.svg" alt="Banner" style="max-width: 100%;" />
+  </div>
+
+  <!-- Design A: Custom Pill Buttons (Matches Banner) -->
+  <div class="preview-card">
+    <h3>Design A: Custom Pill Buttons (Exact Banner Match, Height 44px)</h3>
+    <p style="color:#8b949e; font-size:13.5px; margin:0 0 15px 0;">Matches the rounded slate pill background, gradient borders, and crisp high-contrast text.</p>
+    <div class="btn-container">
+      <a href="mailto:contactme@saddamshah.me">
+        <img src="assets/btn_email.svg" alt="Email" />
+      </a>
+      <a href="https://wa.me/923396106991">
+        <img src="assets/btn_whatsapp.svg" alt="WhatsApp" />
+      </a>
+    </div>
+  </div>
+
+  <!-- Design B: Shields.io Enhanced Sizing (Height 34px) -->
+  <div class="preview-card">
+    <h3>Design B: Shields.io Enhanced (Height 34px - Blue & Green)</h3>
+    <p style="color:#8b949e; font-size:13.5px; margin:0 0 15px 0;">Classic Shields.io badges, scaled up with height="34" for much bigger presence and tap area.</p>
+    <div class="btn-container">
+      <a href="mailto:contactme@saddamshah.me">
+        <img src="https://img.shields.io/badge/Email-contactme@saddamshah.me-2563eb?style=flat-square&logo=gmail&logoColor=white" height="34" alt="Email" />
+      </a>
+      <a href="https://wa.me/923396106991">
+        <img src="https://img.shields.io/badge/WhatsApp-+92%20339%206106991-059669?style=flat-square&logo=whatsapp&logoColor=white" height="34" alt="WhatsApp" />
+      </a>
+    </div>
+  </div>
+
+</body>
+</html>
