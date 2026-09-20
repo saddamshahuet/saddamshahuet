@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 50" width="650" height="50">
+  <defs>
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8; #818cf8; #34d399; #38bdf8" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#818cf8">
+        <animate attributeName="stop-color" values="#818cf8; #34d399; #38bdf8; #818cf8" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#34d399">
+        <animate attributeName="stop-color" values="#34d399; #38bdf8; #818cf8; #34d399" dur="5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="textShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e2e8f0"><animate attributeName="offset" values="-1; 1" dur="3.5s" repeatCount="indefinite" /></stop>
+      <stop offset="25%" stop-color="#38bdf8"><animate attributeName="offset" values="-0.75; 1.25" dur="3.5s" repeatCount="indefinite" /></stop>
+      <stop offset="35%" stop-color="#ffffff"><animate attributeName="offset" values="-0.65; 1.35" dur="3.5s" repeatCount="indefinite" /></stop>
+      <stop offset="50%" stop-color="#e2e8f0"><animate attributeName="offset" values="-0.5; 1.5" dur="3.5s" repeatCount="indefinite" /></stop>
+    </linearGradient>
+
+    <style>
+      .shimmer-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        letter-spacing: 0.35px;
+        fill: url(#textShimmer);
+      }
+      .icon-pulse {
+        animation: pulseIcon 2s ease-in-out infinite;
+      }
+      @keyframes pulseIcon {
+        0%, 100% { transform: scale(1); opacity: 0.9; }
+        50% { transform: scale(1.15); opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="646" height="46" rx="23" fill="#0f172a" stroke="url(#borderGlow)" stroke-width="1.8" />
+
+  <text class="icon-pulse" x="35" y="32" text-anchor="middle" font-size="16">⚡</text>
+  <text x="325" y="31" text-anchor="middle" class="shimmer-text">
+    Available for end-to-end projects &amp; contract work
+  </text>
+  <text class="icon-pulse" x="615" y="32" text-anchor="middle" font-size="16">⚡</text>
+</svg>
