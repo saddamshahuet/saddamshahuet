@@ -9,17 +9,19 @@
 <br><br>
 
 ### 📬 Let's Connect! 
-**✨ Available for end-to-end projects & contract work ✨**
+<p align="center">
+  <img src="assets/available.svg" alt="Available for end-to-end projects & contract work" width="620" />
+</p>
 
 **Email:** `contactme@saddamshah.me` &nbsp; | &nbsp; **WhatsApp:** `+92 339 6106991`
 
 <p align="center">
   <a href="mailto:contactme@saddamshah.me">
-    <img src="https://img.shields.io/badge/Email-contactme@saddamshah.me-3498db?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-contactme@saddamshah.me-2563eb?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" />
   </a>
   &nbsp;
   <a href="https://wa.me/923396106991">
-    <img src="https://img.shields.io/badge/WhatsApp-+92%20339%206106991-27ae60?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-+92%20339%206106991-059669?style=flat-square&logo=whatsapp&logoColor=white" height="28" alt="WhatsApp" />
   </a>
 </p>
 
