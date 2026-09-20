@@ -9,9 +9,9 @@
 <br><br>
 
 ### 📬 Let's Connect! 
-<p align="center">
-  <img src="assets/available.svg" alt="Available for end-to-end projects & contract work" width="620" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=3000&color=4A90E2&center=true&vCenter=true&width=650&height=40&lines=%E2%9C%A8+Available+for+end-to-end+projects+%26+contract+work+%E2%9C%A8" alt="✨ Available for end-to-end projects & contract work ✨" />
+</a>
 
 **Email:** `contactme@saddamshah.me` &nbsp; | &nbsp; **WhatsApp:** `+92 339 6106991`
 
