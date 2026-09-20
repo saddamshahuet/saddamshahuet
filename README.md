@@ -3,23 +3,23 @@
 # Hi there, I'm Saddam Shah 👋
   
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25D366&center=true&vCenter=true&width=550&lines=Team+Lead+%26+Full-Stack+Developer;Building+AI+Agents+%26+MCP+Servers;Specialist+in+.NET+%26+SQL+Stacks;Building+AI+%26+RAG+Solutions;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=550&lines=Team+Lead+%26+Full-Stack+Developer;Building+AI+Agents+%26+MCP+Servers;Specialist+in+.NET+%26+SQL+Stacks;Building+AI+%26+RAG+Solutions;" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 ### 📬 Let's Connect! 
-<h3>🔥 AVAILABLE FOR END-TO-END PROJECTS & CONTRACT WORK 🔥</h3>
+**✨ Available for end-to-end projects & contract work ✨**
 
 **Email:** `contactme@saddamshah.me` &nbsp; | &nbsp; **WhatsApp:** `+92 339 6106991`
 
 <p align="center">
   <a href="mailto:contactme@saddamshah.me">
-    <img src="https://img.shields.io/badge/Email-contactme@saddamshah.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-contactme@saddamshah.me-E57373?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://wa.me/923396106991">
-    <img src="https://img.shields.io/badge/WhatsApp-+92%20339%206106991-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-+92%20339%206106991-66BB6A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
