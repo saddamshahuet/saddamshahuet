@@ -15,11 +15,11 @@
 
 <p align="center">
   <a href="mailto:contactme@saddamshah.me">
-    <img src="https://img.shields.io/badge/Email-contactme@saddamshah.me-E57373?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-contactme@saddamshah.me-3498db?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://wa.me/923396106991">
-    <img src="https://img.shields.io/badge/WhatsApp-+92%20339%206106991-66BB6A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-+92%20339%206106991-27ae60?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
