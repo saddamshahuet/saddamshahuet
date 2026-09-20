@@ -3,25 +3,23 @@
 # Hi there, I'm Saddam Shah 👋
   
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=550&lines=Team+Lead+%26+Full-Stack+Developer;Building+AI+Agents+%26+MCP+Servers;Specialist+in+.NET+%26+SQL+Stacks;Building+AI+%26+RAG+Solutions;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25D366&center=true&vCenter=true&width=550&lines=Team+Lead+%26+Full-Stack+Developer;Building+AI+Agents+%26+MCP+Servers;Specialist+in+.NET+%26+SQL+Stacks;Building+AI+%26+RAG+Solutions;" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 ### 📬 Let's Connect! 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=3000&color=4A90E2&center=true&vCenter=true&width=650&height=40&lines=%E2%9C%A8+Available+for+end-to-end+projects+%26+contract+work+%E2%9C%A8" alt="✨ Available for end-to-end projects & contract work ✨" />
-</a>
+**✨ Available for end-to-end projects & contract work ✨**
 
 **Email:** `contactme@saddamshah.me` &nbsp; | &nbsp; **WhatsApp:** `+92 339 6106991`
 
 <p align="center">
   <a href="mailto:contactme@saddamshah.me">
-    <img src="https://img.shields.io/badge/Email-contactme@saddamshah.me-2563eb?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-contactme@saddamshah.me-3498db?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://wa.me/923396106991">
-    <img src="https://img.shields.io/badge/WhatsApp-+92%20339%206106991-059669?style=flat-square&logo=whatsapp&logoColor=white" height="28" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-+92%20339%206106991-27ae60?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
