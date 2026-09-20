@@ -10,7 +10,7 @@
 
 ### 📬 Let's Connect! 
 <p align="center">
-  <img src="assets/available_shimmer.svg" alt="✨ Available for end-to-end projects & contract work ✨" width="650" />
+  <img src="assets/available_custom.svg" alt="Available for end-to-end projects & contract work" width="650" />
 </p>
 
 **Email:** `contactme@saddamshah.me` &nbsp; | &nbsp; **WhatsApp:** `+92 339 6106991`
