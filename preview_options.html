@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Animation Options Preview</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+      gap: 40px;
+      align-items: center;
+      background: #0d1117;
+      color: #e6edf3;
+    }
+    .container {
+      width: 800px;
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+    }
+    .card {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+    .card h3 {
+      margin-top: 0;
+      color: #58a6ff;
+      font-size: 18px;
+    }
+    .card p {
+      color: #8b949e;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+    .light-preview {
+      background: #ffffff;
+      color: #24292f;
+      border: 1px solid #d0d7de;
+      border-radius: 8px;
+      padding: 20px;
+      margin-top: 15px;
+    }
+    .light-preview h4 {
+      margin: 0 0 10px 0;
+      color: #57606a;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Select Your Preferred Animation Style</h2>
+    <p style="color:#8b949e;">All options keep the text 100% visible at all times (no typing, no disappearing).</p>
+
+    <!-- Option 1 -->
+    <div class="card">
+      <h3>Option 1: Soft Luminous Breathing Glow</h3>
+      <p>A gentle, rhythmic glowing aura that smoothly transitions in intensity without disappearing.</p>
+      <div>
+        <img src="assets/option1_glowing.svg" alt="Option 1" style="max-width: 100%;" />
+      </div>
+    </div>
+
+    <!-- Option 2 -->
+    <div class="card">
+      <h3>Option 2: Vertical Letter Flip (Wave)</h3>
+      <p>Each letter performs a smooth vertical 3D roll in a staggered wave, then rests completely still and readable.</p>
+      <div>
+        <img src="assets/option2_flip.svg" alt="Option 2" style="max-width: 100%;" />
+      </div>
+    </div>
+
+    <!-- Option 3 -->
+    <div class="card">
+      <h3>Option 3: Smooth Light Beam Shimmer</h3>
+      <p>A soft gloss / highlight sweep gently travels across the letters while staying completely legible.</p>
+      <div>
+        <img src="assets/option3_shimmer.svg" alt="Option 3" style="max-width: 100%;" />
+      </div>
+    </div>
+  </div>
+</body>
+</html>

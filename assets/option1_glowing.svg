@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 48" width="680" height="48">
+  <defs>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .glow-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 17px;
+        font-weight: 600;
+        letter-spacing: 0.4px;
+        animation: pulseGlow 3s ease-in-out infinite;
+      }
+      .sparkle {
+        animation: gentleTwinkle 2.5s ease-in-out infinite;
+      }
+      .sparkle-delay {
+        animation: gentleTwinkle 2.5s ease-in-out 1.25s infinite;
+      }
+      @keyframes pulseGlow {
+        0%, 100% {
+          fill: #38bdf8;
+          filter: drop-shadow(0 0 2px rgba(56, 189, 248, 0.4));
+        }
+        50% {
+          fill: #818cf8;
+          filter: drop-shadow(0 0 8px rgba(129, 140, 248, 0.7));
+        }
+      }
+      @keyframes gentleTwinkle {
+        0%, 100% { transform: scale(1); opacity: 0.85; }
+        50% { transform: scale(1.2); opacity: 1; filter: drop-shadow(0 0 4px #fbbf24); }
+      }
+    </style>
+  </defs>
+
+  <!-- Centered container -->
+  <g transform="translate(340, 28)">
+    <!-- Left Sparkle -->
+    <text class="sparkle" x="-285" y="0" text-anchor="middle" font-size="18">✨</text>
+    
+    <!-- Text - 100% visible at all times with soft luminous breathing glow -->
+    <text class="glow-text" x="0" y="0" text-anchor="middle">
+      Available for end-to-end projects &amp; contract work
+    </text>
+    
+    <!-- Right Sparkle -->
+    <text class="sparkle-delay" x="285" y="0" text-anchor="middle" font-size="18">✨</text>
+  </g>
+</svg>

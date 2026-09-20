@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 48" width="680" height="48">
+  <defs>
+    <style>
+      .char-flip {
+        font-family: 'Fira Code', -apple-system, BlinkMacSystemFont, "Segoe UI", monospace;
+        font-size: 17px;
+        font-weight: 600;
+        fill: #38bdf8;
+        transform-box: fill-box;
+        transform-origin: 50% 50%;
+        display: inline-block;
+        animation: flipVert 4.5s ease-in-out infinite;
+      }
+      .sparkle {
+        font-size: 18px;
+        animation: pulseTwinkle 3s ease-in-out infinite;
+      }
+      @keyframes flipVert {
+        0%, 15% {
+          transform: rotateX(0deg);
+        }
+        8% {
+          transform: rotateX(360deg);
+        }
+        100% {
+          transform: rotateX(360deg);
+        }
+      }
+      @keyframes pulseTwinkle {
+        0%, 100% { opacity: 0.8; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.15); filter: drop-shadow(0 0 3px #fbbf24); }
+      }
+    </style>
+  </defs>
+
+  <text class="sparkle" x="55.2" y="29" text-anchor="middle">✨</text>
+  <text class="char-flip" x="90.4" y="29" text-anchor="middle" style="animation-delay: 0.000s;">A</text>
+  <text class="char-flip" x="100.8" y="29" text-anchor="middle" style="animation-delay: 0.035s;">v</text>
+  <text class="char-flip" x="111.2" y="29" text-anchor="middle" style="animation-delay: 0.070s;">a</text>
+  <text class="char-flip" x="121.6" y="29" text-anchor="middle" style="animation-delay: 0.105s;">i</text>
+  <text class="char-flip" x="132.0" y="29" text-anchor="middle" style="animation-delay: 0.140s;">l</text>
+  <text class="char-flip" x="142.4" y="29" text-anchor="middle" style="animation-delay: 0.175s;">a</text>
+  <text class="char-flip" x="152.8" y="29" text-anchor="middle" style="animation-delay: 0.210s;">b</text>
+  <text class="char-flip" x="163.2" y="29" text-anchor="middle" style="animation-delay: 0.245s;">l</text>
+  <text class="char-flip" x="173.6" y="29" text-anchor="middle" style="animation-delay: 0.280s;">e</text>
+  <text class="char-flip" x="194.4" y="29" text-anchor="middle" style="animation-delay: 0.350s;">f</text>
+  <text class="char-flip" x="204.8" y="29" text-anchor="middle" style="animation-delay: 0.385s;">o</text>
+  <text class="char-flip" x="215.2" y="29" text-anchor="middle" style="animation-delay: 0.420s;">r</text>
+  <text class="char-flip" x="236.0" y="29" text-anchor="middle" style="animation-delay: 0.490s;">e</text>
+  <text class="char-flip" x="246.4" y="29" text-anchor="middle" style="animation-delay: 0.525s;">n</text>
+  <text class="char-flip" x="256.8" y="29" text-anchor="middle" style="animation-delay: 0.560s;">d</text>
+  <text class="char-flip" x="267.2" y="29" text-anchor="middle" style="animation-delay: 0.595s;">-</text>
+  <text class="char-flip" x="277.6" y="29" text-anchor="middle" style="animation-delay: 0.630s;">t</text>
+  <text class="char-flip" x="288.0" y="29" text-anchor="middle" style="animation-delay: 0.665s;">o</text>
+  <text class="char-flip" x="298.4" y="29" text-anchor="middle" style="animation-delay: 0.700s;">-</text>
+  <text class="char-flip" x="308.8" y="29" text-anchor="middle" style="animation-delay: 0.735s;">e</text>
+  <text class="char-flip" x="319.2" y="29" text-anchor="middle" style="animation-delay: 0.770s;">n</text>
+  <text class="char-flip" x="329.6" y="29" text-anchor="middle" style="animation-delay: 0.805s;">d</text>
+  <text class="char-flip" x="350.4" y="29" text-anchor="middle" style="animation-delay: 0.875s;">p</text>
+  <text class="char-flip" x="360.8" y="29" text-anchor="middle" style="animation-delay: 0.910s;">r</text>
+  <text class="char-flip" x="371.2" y="29" text-anchor="middle" style="animation-delay: 0.945s;">o</text>
+  <text class="char-flip" x="381.6" y="29" text-anchor="middle" style="animation-delay: 0.980s;">j</text>
+  <text class="char-flip" x="392.0" y="29" text-anchor="middle" style="animation-delay: 1.015s;">e</text>
+  <text class="char-flip" x="402.4" y="29" text-anchor="middle" style="animation-delay: 1.050s;">c</text>
+  <text class="char-flip" x="412.8" y="29" text-anchor="middle" style="animation-delay: 1.085s;">t</text>
+  <text class="char-flip" x="423.2" y="29" text-anchor="middle" style="animation-delay: 1.120s;">s</text>
+  <text class="char-flip" x="444.0" y="29" text-anchor="middle" style="animation-delay: 1.190s;">&amp;</text>
+  <text class="char-flip" x="464.8" y="29" text-anchor="middle" style="animation-delay: 1.260s;">c</text>
+  <text class="char-flip" x="475.2" y="29" text-anchor="middle" style="animation-delay: 1.295s;">o</text>
+  <text class="char-flip" x="485.6" y="29" text-anchor="middle" style="animation-delay: 1.330s;">n</text>
+  <text class="char-flip" x="496.0" y="29" text-anchor="middle" style="animation-delay: 1.365s;">t</text>
+  <text class="char-flip" x="506.4" y="29" text-anchor="middle" style="animation-delay: 1.400s;">r</text>
+  <text class="char-flip" x="516.8" y="29" text-anchor="middle" style="animation-delay: 1.435s;">a</text>
+  <text class="char-flip" x="527.2" y="29" text-anchor="middle" style="animation-delay: 1.470s;">c</text>
+  <text class="char-flip" x="537.6" y="29" text-anchor="middle" style="animation-delay: 1.505s;">t</text>
+  <text class="char-flip" x="558.4" y="29" text-anchor="middle" style="animation-delay: 1.575s;">w</text>
+  <text class="char-flip" x="568.8" y="29" text-anchor="middle" style="animation-delay: 1.610s;">o</text>
+  <text class="char-flip" x="579.2" y="29" text-anchor="middle" style="animation-delay: 1.645s;">r</text>
+  <text class="char-flip" x="589.6" y="29" text-anchor="middle" style="animation-delay: 1.680s;">k</text>
+  <text class="sparkle" x="624.8" y="29" text-anchor="middle" style="animation-delay: 1.5s;">✨</text>
+</svg>
